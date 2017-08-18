@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- ======================================================================================= -->
+    <!-- ============================== DASHBOARD CONFIGURATIONS =============================== -->
+    <!-- ======================================================================================= -->
+
+    <!-- CONFIG: APPLICATION NAME -->
+
+    <string name="app_name">Desi Wallpapers</string>
+
+    <!-- CONFIG: DEFAULT THEME -->
+
+    <!-- Use dark theme as default theme -->
+    <bool name="use_dark_theme">false</bool>
+
+    <!-- CONFIG: MUZEI -->
+
+    <!-- Muzei art source name -->
+    <string name="muzei_art_source_name">DOSP</string>
+
+    <!-- Muzei art source description -->
+    <string name="muzei_art_source_desc">DOSP arts are made by our Team Member KUKUN</string>
+
+    <!-- Muzei base color -->
+    <color name="muzei_color">#F44336</color>
+
+    <!-- CONFIG: TOOLBAR -->
+
+    <!-- Toolbar title -->
+    <string name="toolbar_title">Desi Wallpapers</string>
+
+    <!-- CONFIG: Wallpapers -->
+
+    <!-- Wallpaper json link -->
+    <string name="wallpaper_json">https://drive.google.com/uc?id=0B4ejVxvCke40SHBES2NYSVBhb2c</string>
+
+    <!-- Allow to download wallpaper
+    * If disabled user only able to apply wallpaper from dashboard -->
+    <bool name="enable_wallpaper_download">true</bool>
+
+    <!-- CONFIG: NAVIGATION VIEW HEADER -->
+
+    <!-- Navigation view header image
+    * If you want to use image from url, just put the url here
+    * If you want to use image stored in project (drawable folder)
+    * just put image name here without the extension
+    * ex: navigation_view_header.png -> navigation_view_header
+    * If you want to use solid color, you can put hex color code here
+    * ex: <string name="navigation_view_header">#000000</string> -->
+    <string name="navigation_view_header">https://lh3.googleusercontent.com/iXa9ZwxdyqvE2xCfe2bN7vPNyEZMROpLV5VZoWUIOVg8FMAiJUy8x5UyUxvfnV8AZcqoIJt4cmvGWO-xdLUDRhA3H5QlzC416xL9XJBW-txi1i4sQHZr8Wpo_n5TPQTT4qgIVwoDgIxRXkq6hvUu7oDGeWVnWvjiD8DywkfNOkUF4bfjI1sIPWlt6YDAQapqBrA7vA8rtoq2iie2eTnMFWY2QKyL-Fr0HklvEpfgtsgZtJ1oKZnw3lpE9yi-UlkZGAliw0fg-A4PkfaRApGcSRiII0a1tfHKVWu012KNgK3HJRbR7tozQ6H1xnQOQcMVfy9U3HHorURrn1iNSZLuUf-M0nBNJ8SwGYnxyPu1yw2YtA5CTeZIneLv8MaN1k6LhhGqR2bWjtbg-vodyJIIs3YHN2jQojuf3DZv-n9tS2j9CbZNILl6jijwjsuHx16z6gCQ07Mt6nkTQFZeI3iOr5oSqfF8VimzTQnwSBX4FhaBhcWlKZ1jS4TA1fygmAb-XAymrSlQ3zvKdWKcYveo58_E93MpD9D8lImRlqhIyo9XsQdFA3Ot5Ws0gtpC3zI8O_g9YAK_TWhaenDlFhtrpnvt-UijeRjJfIWYt5na6HGqAStuMM1t=w500-h888-no</string>
+
+    <!-- Navigation view header text
+    * Leave empty if you don't want to show any text -->
+    <string name="navigation_view_header_title">Desi Wallpapers</string>
+
+    <!-- CONFIG: ABOUT -->
+
+    <!-- About header image
+    * If you want to use image from url, just put the url here
+    * If you want to use image stored in project (drawable folder)
+    * just put image name here without the extension (ex: about_image.png -> about_image)
+    * If you want to use solid color, you can put hex color code here
+    * ex: <string name="about_image">#000000</string> -->
+    <string name="about_image">https://lh3.googleusercontent.com/iXa9ZwxdyqvE2xCfe2bN7vPNyEZMROpLV5VZoWUIOVg8FMAiJUy8x5UyUxvfnV8AZcqoIJt4cmvGWO-xdLUDRhA3H5QlzC416xL9XJBW-txi1i4sQHZr8Wpo_n5TPQTT4qgIVwoDgIxRXkq6hvUu7oDGeWVnWvjiD8DywkfNOkUF4bfjI1sIPWlt6YDAQapqBrA7vA8rtoq2iie2eTnMFWY2QKyL-Fr0HklvEpfgtsgZtJ1oKZnw3lpE9yi-UlkZGAliw0fg-A4PkfaRApGcSRiII0a1tfHKVWu012KNgK3HJRbR7tozQ6H1xnQOQcMVfy9U3HHorURrn1iNSZLuUf-M0nBNJ8SwGYnxyPu1yw2YtA5CTeZIneLv8MaN1k6LhhGqR2bWjtbg-vodyJIIs3YHN2jQojuf3DZv-n9tS2j9CbZNILl6jijwjsuHx16z6gCQ07Mt6nkTQFZeI3iOr5oSqfF8VimzTQnwSBX4FhaBhcWlKZ1jS4TA1fygmAb-XAymrSlQ3zvKdWKcYveo58_E93MpD9D8lImRlqhIyo9XsQdFA3Ot5Ws0gtpC3zI8O_g9YAK_TWhaenDlFhtrpnvt-UijeRjJfIWYt5na6HGqAStuMM1t=w500-h888-no</string>
+
+    <!-- About profile image
+    * If you want to use image from url, just put the url here
+    * If you want to use image stored in project (drawable folder)
+    * just put image name here without the extension (ex: about_profile_image.png -> about_profile_image) -->
+    <string name="about_profile_image">https://lh3.googleusercontent.com/rgNspWFY1Crjh21QmA7Du2pYpksmzpInY8laB239XauLzWLrKOGSP_bHOuW2lp9dwxG6UKrMHPp9Z5OhF6E5vDHMVj7aRt0X04YuG5AXZ803CVs4fKkHObYeD63T6zqLKYDSzfeKSUElu6t67VL_3ZV2YsLwlPfqezJviAkSnu0BGMqCBiC-UOSlKp-4DXiAfNzGhRiCxiZ7fvPFcgZ15uDa3Th51UsVROf_ob5qrntzhMxYMgYbthJHxu4kw8JvVNATbbh4fL2XXcGBryS_FXB036DFO9M76KQVb9qlv8wcQbOhInakMTYR0LgnfeSv8mEuZwl88zn5sSShezs0QyY9NYmE_b2fKef2ktbju0ztiJS0gcvBCyudDbGOxHFnMVdZ4rR0y3hNgUCQFRVfzOiZUCySrNROjq_gTbGs1m6zKmOMJXIpd7gUXAFo4bI57NCJOFm3SStMmpltHEt5PsDPDKgKEY9gGKARMiAMwhWLyuFA_6qnGXVzPtg50_YKZilYVf4730kjxOCk-9c8-FX3PkDuqLcgJSehawLvSySJdLHnWhY2B2a5S_ubmzf_9IX-VDqv4azZE-U4hnZGIUdRZTQuwA8GvJRtjxsNP--UiwoqnYYY=s767-no</string>
+
+    <!-- About title above description -->
+    <string name="about_title">Desi Wallpapers</string>
+
+    <!-- About description below title -->
+    <string name="about_desc"><![CDATA[DOSP is a open source rom Project Made By DOSP Team]]></string>
+
+    <!-- Social link inside about
+    * Supported link:
+    * Email, Behance, Dribbble, Facebook, Github, Google+, Instagram, Pinterest, Twitter
+    * The link will be marked as regular website if doesn't listed above
+    *
+    * If you don't want to show social link, just set about_social_links to empty
+    * ex:
+    * <string-array name="about_social_links"></string-array>-->
+    <string-array name="about_social_links">
+
+
+
+        <item>https://plus.google.com/communities/103152479513282843966</item>
+        <item>https://dosp-project.github.io/</item>
+        <item>http://www.yourwebsite.com</item>
+
+    </string-array>
+
+    <!-- Contributors dialog
+    * Take a look inside values/xml/contributors.xml to add contributors -->
+    <bool name="show_contributors_dialog">true</bool>
+
+    <!-- CONFIG: DONATE -->
+
+    <!-- DONATION
+    * Show support development option in navigation view
+    * default: true
+    * change to false to disable it -->
+    <bool name="enable_donation">false</bool>
+
+    <!-- Take a look inside License.java for donation product -->
+
+</resources>

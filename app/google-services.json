@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "383012589885",
+    "firebase_url": "https://dosp-67d7a.firebaseio.com",
+    "project_id": "dosp-67d7a",
+    "storage_bucket": "dosp-67d7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383012589885:android:dce137e89f9313b4",
+        "android_client_info": {
+          "package_name": "com.source.open.Desi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383012589885-bvbj8g192g1clbqhb6ggs53m9si029s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7POQwbMF2gTJvJxIhN4sxp-TuuHtMTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
